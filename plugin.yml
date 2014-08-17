@@ -1,0 +1,16 @@
+name: DeathBlock
+main: me.redstonefreak589.deathblock.DeathBlock
+author: redstonefreak589
+version: 1.0
+description: >
+             Kills players if they are around the DeathBlock while enabled. >:D
+
+commands:
+    deathblock:
+        description: Enables/Disables the DeathBlock
+    db:
+        description: Allias for deathblock.
+    dbstatus:
+        description: Checks the DeathBlock status.
+    dbreload:
+        description: Reloads the configuration file.
